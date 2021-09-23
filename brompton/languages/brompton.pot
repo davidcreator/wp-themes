@@ -1,0 +1,95 @@
+# Copyright (C) 2021 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Brompton 1.4.7\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/brompton\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-04-17T02:08:30+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+"X-Domain: brompton\n"
+
+#. Theme Name of the theme
+msgid "Brompton"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "https://github.com/Automattic/themes/brompton"
+msgstr ""
+
+#. Description of the theme
+msgid "Running a business is no small task. But with the right tools and support, creating a website doesn’t have to be another chore on your to-do list: enter Brompton, a simple yet powerful theme for small-business owners and entrepreneurs."
+msgstr ""
+
+#. Author of the theme
+msgid "Automattic"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://automattic.com/"
+msgstr ""
+
+#: functions.php:32
+msgid "Small"
+msgstr ""
+
+#: functions.php:33
+msgid "S"
+msgstr ""
+
+#: functions.php:38
+msgid "Normal"
+msgstr ""
+
+#: functions.php:39
+msgid "N"
+msgstr ""
+
+#: functions.php:44
+msgid "Medium"
+msgstr ""
+
+#: functions.php:45
+msgid "M"
+msgstr ""
+
+#: functions.php:50
+msgid "Large"
+msgstr ""
+
+#: functions.php:51
+msgid "L"
+msgstr ""
+
+#: functions.php:56
+msgid "Huge"
+msgstr ""
+
+#: functions.php:57
+msgid "XL"
+msgstr ""
+
+#: functions.php:82
+msgid "Primary"
+msgstr ""
+
+#: functions.php:87
+msgid "Secondary"
+msgstr ""
+
+#. Translators: If there are characters in your language that are not supported by Lora, translate this to 'off'. Do not translate into your own language.
+#: functions.php:145
+msgctxt "Lora font: on or off"
+msgid "on"
+msgstr ""
+
+#. Translators: If there are characters in your language that are not supported by Nunito Sans, translate this to 'off'. Do not translate into your own language.
+#: functions.php:151
+msgctxt "Nunito Sans font: on or off"
+msgid "on"
+msgstr ""

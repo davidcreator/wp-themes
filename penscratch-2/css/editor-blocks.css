@@ -1,0 +1,38 @@
+/*
+Theme Name: Penscratch 2
+Description: Used to style Gutenberg Blocks in the editor.
+*/
+
+/*--------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+1.0 General Typography
+2.0 General Block Settings
+3.0 Blocks - Common Blocks
+4.0 Blocks - Formatting
+5.0 Blocks - Layout Elements
+6.0 Blocks - Widgets
+
+--------------------------------------------------------------*/
+
+/*--------------------------------------------------------------
+1.0 General Typography
+--------------------------------------------------------------*/
+
+body {
+	background: #fff;
+}
+
+/* Post title */
+.editor-post-title__block .editor-post-title__input {
+	color: #666;
+	font-family: "Roboto Slab", Georgia, Times, serif;
+	font-size: 26.25px;
+	font-weight: 400;
+}
+
+@media (min-width: 50em) {
+	.editor-post-title__block .editor-post-title__input {
+		font-size: 32px;
+	}
+}
